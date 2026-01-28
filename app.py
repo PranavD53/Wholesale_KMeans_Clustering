@@ -27,7 +27,7 @@ st.markdown("""
     /* Global styles */
     * {
         font-family: 'Inter', sans-serif;
-        color: #1e293b;
+        color: black;
     }
     
     /* Main container */
